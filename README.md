@@ -2,9 +2,9 @@
 
 DATE: 
 
-GITHUB LINK: 
+GITHUB LINK: https://github.com/saran7d/DS-EX-10.git
 
-COLAB LINK: 
+COLAB LINK: https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm096ZPl?usp=sharing
 
 ## AIM :
 
