@@ -1,5 +1,11 @@
 # Flight information -analysis
 
+DATE: 
+
+GITHUB LINK: 
+
+COLAB LINK: 
+
 ## AIM :
 
 To Perform Bivariate/Multivariate Analysis
