@@ -22,9 +22,9 @@ To Perform Bivariate/Multivariate Analysis
 
 ## PROGRAM :
 
-Developed by: Sathiya Narayanan G
+Developed by: Saran S S
 
-Reg no: 212221220049
+Reg no: 212221220048
 
 import pandas as pd
 
